@@ -14,6 +14,6 @@ The document is a US Letter size and will be printed in 72 PPI which is the stan
 
 Below is a diagram of the margin boxes created with PagedJS:
 
-![Diagram of Margin Boxes](https://github.com/drewroberts/resume/img/margin-boxes.png)
+![Diagram of Margin Boxes](https://github.com/drewroberts/resume/blob/main/img/margin-boxes.png)
 
 This repository uses the left margin with a width of 250px and black background on every page using the running() function. The other margins are 28px.
